@@ -1,4 +1,6 @@
-# Principle of Distributed Ledgers, Tutorial 2
+# Principle of Distributed Ledgers
+
+from one of the tutorials of this module.
 
 The goal of this tutorial is to implement an ERC-20 token and an ERC-721 token that can be bought using the ERC-20 token.
 
